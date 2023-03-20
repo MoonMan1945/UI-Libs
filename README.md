@@ -4,10 +4,9 @@
 
 <h2 align="center">Osmium</h2>
 
-### Osmium
+### Get the Link
 
-```lua
-local window = library:CreateWindow("Osmium UI Library")](https://github.com/TrixAde/Osmium/blob/main/OsmiumLibraryDocumentation.md
+```github.com/TrixAde/Osmium/blob/main/OsmiumLibraryDocumentation.md
 ```
 
 ## Get Window State

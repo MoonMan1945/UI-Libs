@@ -1,8 +1,4 @@
-<h1 align="center">Osmium Library Documentation</h1>
-
-```lua
-local _, library = pcall(loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Osmium/main/OsmiumLibrary.lua")))
-```
+<h1 align="center">UI Libraries</h1>
 
 ---
 

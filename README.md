@@ -2,14 +2,12 @@
 
 ---
 
-<h2 align="center">Window</h2>
+<h2 align="center">Osmium</h2>
 
-### Create a Window
-
-**library:CreateWindow(title: *string*) -> *Window***
+### Osmium
 
 ```lua
-local window = library:CreateWindow("Osmium UI Library")
+local window = library:CreateWindow("Osmium UI Library")](https://github.com/TrixAde/Osmium/blob/main/OsmiumLibraryDocumentation.md
 ```
 
 ## Get Window State
